@@ -1,4 +1,4 @@
-mport requests
+import requests
 
 url_to_test = "https://www.telenetix2.in/"
 
