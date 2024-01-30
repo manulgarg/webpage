@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the URL to be tested
-url_to_test="https://www.telenetix.in/"
+url_to_test="https://www.telenetix2.in/"
 
 # Perform an HTTP GET request using curl
 response=$(curl -s -o /dev/null -w "%{http_code}" $url_to_test)
